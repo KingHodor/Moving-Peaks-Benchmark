@@ -37,5 +37,5 @@ The multiquantum swarm optimization (mQSO): In this paper, we explore new varian
 
 ## Getting help
 
-Please contact ahmet@evercoin.com
+Please contact sfa.alptekin@gmail.com
 
